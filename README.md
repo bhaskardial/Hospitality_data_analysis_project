@@ -38,13 +38,13 @@ Occupancy Optimization: Insights into room category performance, enabling better
 Revenue Enhancement: Data-driven recommendations to improve occupancy rates and revenue generation by targeting high-demand periods and optimizing room pricing strategies.
 
 ## Key Metrics:
-RevPar = Revenue per available room
-ADR = Average Daily Rate
-DSRN = Daily sellable room nights
-Occupancy % = Occupancy means total successful bookings happened to the total rooms available(capacity).
-Realization % = Succesful "checked out" percentage over all bookings happened.
-DBRN = Daily booked room nights
-DURN = Daily utilized room nights
+1. RevPar = Revenue per available room
+2. ADR = Average Daily Rate
+3. DSRN = Daily sellable room nights
+4. Occupancy % = Occupancy means total successful bookings happened to the total rooms available(capacity).
+5. Realization % = Succesful "checked out" percentage over all bookings happened.
+6. DBRN = Daily booked room nights
+7. DURN = Daily utilized room nights
 
 ![5](https://github.com/user-attachments/assets/8d9c8cd1-a7dd-4bd3-9e4e-3b4a0390efe3)
 
